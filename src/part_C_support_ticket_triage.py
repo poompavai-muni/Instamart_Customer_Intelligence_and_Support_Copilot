@@ -1,8 +1,8 @@
-!git clone https://github.com/poompavai-muni/Instamart_Customer_Intelligence_and_Support_Copilot.git
+# !git clone https://github.com/poompavai-muni/Instamart_Customer_Intelligence_and_Support_Copilot.git
 
-import os
+# import os
 # List the contents of the cloned directory to verify its structure
-os.listdir('Instamart_Customer_Intelligence_and_Support_Copilot')
+# os.listdir('Instamart_Customer_Intelligence_and_Support_Copilot')
 
 # Commented out IPython magic to ensure Python compatibility.
 # %cd Instamart_Customer_Intelligence_and_Support_Copilot

@@ -1,9 +1,9 @@
 # Clone the repository and open the project
-!git clone https://github.com/poompavai-muni/Instamart_Customer_Intelligence_and_Support_Copilot.git
+# !git clone https://github.com/poompavai-muni/Instamart_Customer_Intelligence_and_Support_Copilot.git
 
-import os
+# import os
 # List the contents of the cloned directory to verify its structure
-os.listdir('Instamart_Customer_Intelligence_and_Support_Copilot')
+# os.listdir('Instamart_Customer_Intelligence_and_Support_Copilot')
 
 # Find the project folder.
 possible_folders = [
